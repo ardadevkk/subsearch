@@ -5,3 +5,5 @@
 
                                                               ⬇️ Using
  
+ - python subsearch.py <domain>
+
